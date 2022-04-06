@@ -6,4 +6,11 @@ body {
 
 #Header {
     color: rgb(255, 255, 255);
+    background-color: grey;
+    padding: 5px;
+}
+
+#Title-1 {
+    margin: 0;
+       
 }
